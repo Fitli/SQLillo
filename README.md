@@ -13,6 +13,8 @@ Description by the organizers:
 > 
 > After all the game ticks are simulated, the player with the biggest connected component wins.
 
+![I am the green one!](run.png)
+
 # My strategy
 My strategy is quite simple. I use two types of workers:
 
